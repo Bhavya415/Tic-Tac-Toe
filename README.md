@@ -1,7 +1,7 @@
 
 # TIC_TAC_TOE
 
-This is baisc reac-js application 
+This is baisc react-js application 
 
 ## Acknowledgements
 
